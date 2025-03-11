@@ -4,6 +4,12 @@ Blue
 Cyan
 Yellow
 Charcoal
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
 Khaki
 Coral
 Silver
