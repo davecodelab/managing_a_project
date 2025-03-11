@@ -1,9 +1,4 @@
-Crimson
-Orange
-Blue
-Cyan
-Yellow
-Charcoal
+coal
 Crimson
 Orange
 Blue
